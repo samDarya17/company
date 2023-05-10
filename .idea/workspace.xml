@@ -5,21 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1afb14c3-0593-4fba-9a7a-4274af7556f5" name="Changes" comment="в">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Company1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/FindInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Janitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/PROF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/InvalidUserAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/InvalidUserName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/MyExcServise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/MyUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/MyFuncInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionsInJava/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/LocalMemoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/LowMemoryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/NoSuchElementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petspractice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petspractice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petspractice/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petspractice/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petspractice/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +60,44 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/q1022 Java/homework"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
+      <module name="Company1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Main5" />
+      <module name="Company1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
