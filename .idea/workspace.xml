@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afb14c3-0593-4fba-9a7a-4274af7556f5" name="Changes" comment="в">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/InvalidUserAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/InvalidUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/MyExcServise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/MyUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/MyFuncInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stream/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsInJava/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/LocalMemoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/LowMemoryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/NoSuchElementException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petspractice/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petspractice/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petspractice/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petspractice/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petspractice/PetService.java" afterDir="false" />
+    <list default="true" id="1afb14c3-0593-4fba-9a7a-4274af7556f5" name="Changes" comment=" gjuyf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/q1022 Java/homework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/q1022 Java/homework&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
@@ -111,7 +89,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="в" />
-    <option name="LAST_COMMIT_MESSAGE" value="в" />
+    <MESSAGE value=" gjuyf" />
+    <option name="LAST_COMMIT_MESSAGE" value=" gjuyf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
